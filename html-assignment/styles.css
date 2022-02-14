@@ -19,7 +19,7 @@ ul{
     list-style-type: square;
 }
 
-ul:nth-child(odd){
+li:nth-child(odd){
     background-color:lightblue;
 }
 
