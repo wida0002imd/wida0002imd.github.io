@@ -1,0 +1,37 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+header, footer{
+    background-color:aquamarine;
+}
+
+.site-title{
+    color:cornflowerblue;
+}
+
+#my-image{
+    box-shadow: 0 0 2px 1px black;
+}
+
+ul{
+    list-style-type: square;
+}
+
+ul:nth-child(odd){
+    background-color:lightblue;
+}
+
+a{
+    text-decoration: none;
+    background-color: blanchedalmond;
+    border-style: solid;
+}
+
+a:hover{
+    background-color: pink;
+}
+
+
+
