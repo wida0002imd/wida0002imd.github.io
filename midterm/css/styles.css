@@ -1,0 +1,94 @@
+html{
+    background-color: #aad4cf;
+}
+
+header img{
+    position: relative;
+}
+
+header h1{
+    color: white;
+    position: absolute;
+    left:1600px;
+    top: 15%;
+    
+}
+
+
+
+
+
+body{
+    background-color:rgb(210, 243, 233);
+    padding: 0px 20px 20px 20px;
+    margin: 0px 800px 0px 800px ;
+    font-size: 50px;
+
+}
+
+.banner{position: relative;
+        width:90%;
+        margin:0 auto;
+
+}
+
+
+
+.site-title{
+    position: absolute;
+    color:white;
+    text-align:center;
+    
+}
+
+
+nav li{
+    list-style-type: none;
+    display:inline-block;
+    width:30%;
+    font-weight:bold;
+    border-right: 3px solid;
+}
+
+nav ul li:last-child{
+    border-right: none;
+}
+
+#fullname{
+    width:100%;
+    height:50px;
+}
+
+#email{
+    width: 100%;
+    height: 50px;
+}
+
+#message{
+    width:100%;
+    height:150px;
+}
+
+
+#radio1{
+    height:30px;
+    width:30px;
+}
+
+#radio2{
+    height:30px;
+    width:30px;
+}
+
+#radio3{
+    height:30px;
+    width:30px;
+}
+
+#submit1{
+    height:50px;
+    width:80px;
+    font-size:20px;
+}
+
+
